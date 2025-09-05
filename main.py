@@ -1,5 +1,5 @@
 import random
-a = random.randint(-225, 225)
+a = random.randint(10, 15)
 b = int(input("Введите ваше число: "))
 if (b == a):
     print("Вы угадали число!")
