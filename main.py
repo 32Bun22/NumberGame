@@ -1,7 +1,7 @@
 import random
 a = random.randint(10, 10)
-b = int(input("Введите ваше число: "))
+b = int(input("AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"))
 if (b == a):
-    print("Вы угадали число!")
+    print("AAAAAAAAAAAAAAAAAAAAAAAAAA")
 else:
-    print("Вы не угадали число! Правильное число:", a,".")
+    print("AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA")
